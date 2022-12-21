@@ -21,11 +21,13 @@ Again using `groupby`, a new dataframe was created with 'type' and 'date' as the
 ## Results
 #### Ride-Sharing by City Type Table
 The table resulting from the analysis is below. 
+![DataFrame Summary Table](/analysis/SummaryDataFrame.png)
 
 As shown in the table, urban cities have the highest total rides, total drivers, and total fares. However, the average fare per ride is lower than both suburban and rural cities. Unlike suburban and rural cities, urban cities have more total drivers than total rides. 
 
 #### Total Weekly Fares by City Type Plot
 The plot resulting from the analysis is below.
+![Total Weekly Fares Plot](/analysis/Pyber_fare_summary.png)
 
 Consistent with the table above, the plot shows that urban cities produced the highest total fares each week. Across all city types, there is a spike in total fares in the last week of February. Rural cities had the least variability in total fares across the selected timeframe, while urban cities had the most.
 
