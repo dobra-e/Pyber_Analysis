@@ -7,7 +7,6 @@ PyBer, a ride-sharing company valued at $2.3 billion, was interested in explorin
 * date
 * fare
 * ride_id
-Pandas and matplotlib were used in Jupyter Notebook to conduct the analysis. 
 
 ### Purpose
 The purpose of the analysis was to identify differences in ride-sharing patterns between city types to inform decision-making at PyBer. In particular, the goal is to improve accress to ridesharing services and determine affordability for underserved neighborhoods.
