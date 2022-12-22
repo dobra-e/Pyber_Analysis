@@ -32,7 +32,9 @@ The plot resulting from the analysis is below.
 Consistent with the table above, the plot shows that urban cities produced the highest total fares each week. Across all city types, there is a spike in total fares in the third week of February. Rural cities had the least variability in total fares across the selected timeframe, while urban cities had the most.
 
 ## Summary
-Based on the analysis, the following recommendations are made to address disparities in ride-sharing between city types.
+Based on the analysis, recommendations can be made to address disparities in ride-sharing between city types.
+
+### Recommendations
 1. Focus advertising and investment in urban cities to increase ridership. Urban cities have an excess of drivers that can accommodate an increase in riders. 
 2. Increase the number of drivers in rural and suburban areas. These markets are likely taking longer rides meaning there may be longer wait times detering potential customers from using the service.
 3. Charge an increased rate per mile or minute for urban rides. This would increase the average fare per ride and help close the gap between the urban and suburban or rural markets. 
