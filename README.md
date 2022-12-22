@@ -9,7 +9,7 @@ PyBer, a ride-sharing company valued at $2.3 billion, was interested in explorin
 * ride_id
 
 ### Purpose
-The purpose of the analysis was to identify differences in ride-sharing patterns between city types to inform decision-making at PyBer. In particular, the goal is to improve accress to ridesharing services and determine affordability for underserved neighborhoods.
+The purpose of the analysis was to identify differences in ride-sharing patterns between city types to inform decision-making at PyBer. In particular, the goal is to improve access to ridesharing services and determine affordability for underserved neighborhoods.
 
 ### Analysis
 #### Ride-Share DataFrame
